@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://geez2k.github.io/my-react-app",
+  "homepage": "http://geez2k.github.io/react-udemy-tutorial",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
